@@ -1,6 +1,6 @@
 [Adblock Plus 4.0]
 ! Title: Custom Permissive list of payback.it
-! Last modified: 02 Jul 2024 13:00 UTC
+! Last modified: 02 Jul 2024 16:00 UTC
 ! Expires: 30 days (update frequency)
 ! Homepage: https://payback.it
 
@@ -11,7 +11,6 @@
 @@||aeg.it^$document
 @@||agoda.com^$document
 @@||airfrance.it^$document
-@@||aliexpress.com^$document
 @@||amazon.it^$document
 @@||amicafarmacia.com^$document
 @@||angelominetti.it^$document
@@ -33,6 +32,7 @@
 @@||bernabei.it^$document
 @@||bernardellistores.com^$document
 @@||bershka.com^$document
+@@||best.aliexpress.com^$document
 @@||bitiba.it^$document
 @@||blue-tomato.com^$document
 @@||bonprix.it^$document
@@ -40,6 +40,7 @@
 @@||bose.it^$document
 @@||bottegaverde.com^$document
 @@||brasty.it^$document
+@@||braunhousehold.com^$document
 @@||brooks.prf.hn^$document
 @@||brosway.com^$document
 @@||bstn.com^$document
@@ -52,6 +53,7 @@
 @@||capsuleshop.it^$document
 @@||carillohome.com^$document
 @@||carpisa.it^$document
+@@||carrefour.it^$document
 @@||casadei.com^$document
 @@||castellanishop.it^$document
 @@||cingolanibikeshop.com^$document
@@ -65,6 +67,7 @@
 @@||consegnafiori.it^$document
 @@||consumer.huawei.com^$document
 @@||converse.com^$document
+@@||corriere.it^$document
 @@||cos.com^$document
 @@||cosaporto.it^$document
 @@||cosmeticos24h.com^$document
@@ -159,7 +162,6 @@
 @@||holidu.it^$document
 @@||honor.com^$document
 @@||horizn-studios.com^$document
-@@||hotels.com^$document
 @@||hotpoint.it^$document
 @@||hp.com^$document
 @@||hudabeauty.com^$document
@@ -175,6 +177,7 @@
 @@||it.benetton.com^$document
 @@||it.boohoo.com^$document
 @@||it.comfortzoneskin.com^$document
+@@||it.hotels.com^$document
 @@||it.lastminute.com^$document
 @@||it.loccitane.com^$document
 @@||it.pandora.net^$document
@@ -218,6 +221,7 @@
 @@||melluso.com^$document
 @@||mi.com^$document
 @@||michaelkors.it^$document
+@@||miliboo.it^$document
 @@||modivo.it^$document
 @@||moeve.de^$document
 @@||mondoffice.com^$document
@@ -300,9 +304,11 @@
 @@||sp.booking.com^$document
 @@||sport85.com^$document
 @@||stampa-su-tela.it^$document
+@@||static.tradetracker.net^$document
 @@||stefanel.com^$document
 @@||store.inter.it^$document
 @@||stradivarius.com^$document
+@@||stroilioro.com%20^$document
 @@||superdry.it^$document
 @@||svinando.com^$document
 @@||tannico.it^$document
@@ -319,7 +325,6 @@
 @@||timberland.it^$document
 @@||tiqets.com^$document
 @@||tirendo.it^$document
-@@||tradetracker.net^$document
 @@||truckpooling.it^$document
 @@||tuttoautoricambi.it^$document
 @@||ui2.awin.com^$document
@@ -329,8 +334,8 @@
 @@||unoaerre.it^$document
 @@||urbanoutfitters.com^$document
 @@||utensili.hoffmann-italia.it^$document
+@@||validate.perfdrive.com^$document
 @@||vans.it^$document
-@@||verymobile.it^$document
 @@||vidaxl.it^$document
 @@||vitaminexpress.org^$document
 @@||volagratis.com^$document
