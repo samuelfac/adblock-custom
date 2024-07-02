@@ -4,7 +4,7 @@
 ! Expires: 30 days (update frequency)
 ! Homepage: https://payback.it
 
-! Filters to be used by Adblock - permissive list of https://www.payback.it/partner-shop-online/partner-a-z^$document
+! Filters to be used by Adblock - permissive list of https://www.payback.it/partner-shop-online/partner-a-z
 @@||abbonamenti.gazzetta.it^$document
 @@||aboutyou.it^$document
 @@||adidas.it^$document
