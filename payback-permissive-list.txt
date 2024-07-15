@@ -361,3 +361,6 @@
 @@||yousporty.com^$document
 @@||zalando-prive.it^$document
 @@||zooplus.it^$document
+@@||dixiefashion.com^$document
+@@||imperialfashion.com^$document
+@@||pleasefashion.com^$document
